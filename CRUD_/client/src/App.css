@@ -1,0 +1,66 @@
+.inputs{
+display: flex;
+flex-direction: column;
+width: 100%;
+align-items: center;
+}
+
+.button_{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.show{
+    width: 500px;
+    padding-top: 2rem;
+}
+
+.employee{
+    width: 100%;
+    height: auto;
+    background-color: grey;
+    outline: solid black;
+}
+
+.box-info{
+    display: flex;
+}
+
+.employee h3{
+    padding-right: 1rem;
+
+}
+
+.update-inputs{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.update-inputs input {
+    width: 50px;
+}
+
+.update-delete{
+    display: flex;
+    justify-content: center;
+}
+
+.input-container{
+    outline: solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+
+
+
