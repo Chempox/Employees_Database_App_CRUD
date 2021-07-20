@@ -5,7 +5,7 @@
 <h3>Introduction</h3>
 Hi, welcome to my repository
 <br>
-This aplication emulates a business database, where you can create, read, update and delete (CRUD) information from it and send it into a sql database.<br>
+This application emulates a business database, where you can create, read, update and delete (CRUD) information from it and send it in to a SQL database.<br>
 It was develop with JS and NodeJs using the following dependencies:<br>
 <ul>
 <li>React</li>
